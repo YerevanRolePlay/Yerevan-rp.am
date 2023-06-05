@@ -1,1 +1,94 @@
 # Yerevan-rp.am
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="RP.webp">
+    <title>Yerevan Role Play Role Play</title>
+    <link rel="stylesheet" href="index.css">
+    
+
+    
+</head>
+<body>
+<!-- Navbar  Section Start -->
+<header>
+    <link rel="icon" type="image/png" sizes="32x32" href="RP.webp">
+    <a href="#" class="logo">Yerevan Role Play</a>
+
+    <div class="bx bx-menu" id="menu-icon"></div>
+
+    <ul class="navbar">
+        <li><a href="https://youtu.be/5M_qEkN40Q0">YouTube</a></li>
+        <li><a href="https://discord.gg/CBu8ZGrh">Discord</a></li>
+        <li><a href="https://vk.com/erevan_cityroleplay">Vkontakt</a></li>
+        <li><a href="">FORUM</a></li>
+        <div class="bx bx-moon" id="darkmode"></div>
+    </ul>
+</header>
+<!-- Navbar Section End -->
+   
+   
+   
+    <center><img src="Armenias.jpg" widht="600px" height="830px"></center>
+    
+
+ <!-- About Section Start -->
+
+ <section class="about" id="about">
+    <div class="heading">
+        <h2>Yerevan Role Play</h2>
+        <span>Introduction</span>
+    </div>
+
+    <div class="about-container">
+        <div class="about-img">
+            <img src="lastperson.png" alt="">
+        </div>
+        <div class="about-text">
+            <p>ՍՏԵՂԾԻՐ ՔՈ ՊԱՏՄՈՒԹՅՈՒՆԸ
+                YEREVAN ROLE PLAY-ՈՒՄ
+                Խաղա հայտնի GTA San Andreas
+                YEREVAN ROLE PLAY-ի նախագծում</p>
+
+                <a href="" class="btn btn-red"><span class="glyphicon glyphicon-play"></span> ՏԵՍԱՆՅՈՒԹ</a>
+            
+
+
+                
+            </div>
+           <a href="http://files.sa-mp.com/sa-mp-0.3.7-install.exe" class="btn">Ներբեռնել MULTIPLAYER </a>
+        </div>
+    </div>
+</section>
+<!-- About Section End -->
+
+     <!-- Skills Section End -->
+
+     
+     <div class="img-container d-none">
+        
+        <img
+          src="RP.webp" widht="400px" height="900px"
+          alt=""
+        />
+      </div>
+    </section>
+
+    
+
+    </div>
+
+    <script src="index.js"></script>
+
+    <div class="copyright">
+        &#169; Yerevan RolePlay| All Right Reserved.</p>
+    </div>
+
+   
+  
+   
+</body>
+</html>
